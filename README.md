@@ -7,7 +7,7 @@
 <!-- Any image aligned to the right. Beware the width -->
 <!-- <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" /> -->
 
-- 🎯 I’m ready to take part in the postgraduate entrance exams;
+- 🎯 I will pursue a master's degree at CQUPT;
 - 🌱 I graduated from a Bachelor's degree in Software Engineering at CQUPT; 
 - 🔭 I live at the foot of Nanshan Mountain and study on it,i love this land；
 - 🤔 I’m intersted in cycling,programing,designing,cloud;
